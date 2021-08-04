@@ -1,5 +1,5 @@
 {
-    "name": "leonardo/buscador-cursos",
+    "name": "leonardo-blauth/buscador-cursos",
     "description": "Projeto que busca cursos",
     "type": "library",
     "authors": [
